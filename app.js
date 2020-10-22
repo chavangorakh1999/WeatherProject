@@ -23,4 +23,5 @@ app.get("/",function(req,res){
 
 app.listen(3000,function(req,res){
     console.log("Server is running on port 3000");
+    console.log("And you are good to go");
 });
